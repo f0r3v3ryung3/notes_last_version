@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_chat_24"
+        android:title="@string/chat"
+        android:contentDescription="@string/content_description_search"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/notes"
+        android:title="@string/notes"
+        android:icon="@drawable/ic_notes_24"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_24"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never"
+        />
+
+</menu>

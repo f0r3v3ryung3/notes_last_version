@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">notes_last_version</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="add">Add</string>
+    <string name="nested_scroll">NestedScroll</string>
+    <string name="content_description_search">content description search</string>
+    <string name="content_description_more">content description more</string>
+    <string name="chat">Chat</string>
+    <string name="notes">Notes</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="API">Your API:</string>
+    <string name="edit_api">Edit API</string>
+    <string name="confirm">confirm</string>
+    <string name="copy">copy</string>
+    <string name="title">Title</string>
+    <string name="add_text">Add text</string>
+    <string name="secondary_text">Secondary text</string>
+    <string name="text">Text</string>
+    <string name="content_description_back">content description back</string>
+    <string name="delete">delete</string>
+    <string name="back">back</string>
+    <string name="content_description_delete">content description delete</string>
+    <string name="history">history</string>
+    <string name="content_description_history">content description history</string>
+    <string name="content_description_copy">content description copy</string>
+</resources>
